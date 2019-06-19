@@ -1,0 +1,6 @@
+dk\game\rainbow\tetris\Location.class
+dk\game\rainbow\tetris\Starter.class
+dk\game\rainbow\tetris\GameData.class
+dk\game\rainbow\tetris\blocks\Square.class
+dk\game\rainbow\tetris\TetrisGame.class
+dk\game\rainbow\tetris\blocks\Block.class
